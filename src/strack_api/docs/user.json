@@ -1,0 +1,4 @@
+{
+  "find": "get first matched entity with given fields",
+  "select": "get all matched entity with given fields "
+}
